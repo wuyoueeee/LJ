@@ -2,8 +2,7 @@
 
 基于YOLOv8的智能垃圾分类识别系统，支持实时摄像头检测和图片上传检测，具有现代化的界面设计和完整的数据分析功能。
 项目地址：[https://mbd.pub/o/bread/YZWVl5ZwaA==](https://mbd.pub/o/bread/YZWVl5ZwaA==)
-项目展示：
-[video(video-YSmpRjPm-1752400125758)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=114845244464764)(image-https://i-blog.csdnimg.cn/img_convert/c604f6c05313dabfea7df54664a2f5e1.jpeg)(title-基于深度学习的垃圾分类系统（YOLO+数据集+模型+代码+训练过程+详细文档）)]
+项目展示：[https://player.bilibili.com/player.html?aid=114845244464764]
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/58600fca31e641f0b97f58ec0b168d85.png)
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/8aaf05cdc41147fea78dab28aedb717c.png)
