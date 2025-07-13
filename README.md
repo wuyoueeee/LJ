@@ -1,7 +1,9 @@
 # 基于YOLOv8的智能垃圾分类识别系统
 
 基于YOLOv8的智能垃圾分类识别系统，支持实时摄像头检测和图片上传检测，具有现代化的界面设计和完整的数据分析功能。
+
 项目地址：[https://mbd.pub/o/bread/YZWVl5ZwaA==](https://mbd.pub/o/bread/YZWVl5ZwaA==)
+
 项目展示：[https://player.bilibili.com/player.html?aid=114845244464764]
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/58600fca31e641f0b97f58ec0b168d85.png)
